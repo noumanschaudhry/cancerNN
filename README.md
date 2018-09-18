@@ -11,3 +11,6 @@ Load required CSV and do the preprocessings which include checking for the null 
 Initialise and compile the neural network with four dense layers. All layers ,except for the last one,are followed by a droput layer.Adam is used as optimzer and crossentropy loss is used.
 
 Model is trained on 150 epochs and Confusion matrix is plotted after the training that gives us an accuracy of 96.49%
+
+### Confusion Matrix
+<img srs="confusion_matrix.png">
