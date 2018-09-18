@@ -13,4 +13,4 @@ Initialise and compile the neural network with four dense layers. All layers ,ex
 Model is trained on 150 epochs and Confusion matrix is plotted after the training that gives us an accuracy of 96.49%
 
 ### Confusion Matrix
-<img src="confusion_matrix.png" align="center">
+<img src="confusion_matrix.png" align="centre">
